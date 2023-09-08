@@ -149,3 +149,8 @@ Step 5: Add water package
 Desscription: For the water, we imported a package called "Simple Water Shader URP" from Unity's Assets store. Once imported go to Assets folder and select IgniteCoders->Simmple Water Shader->Prefabs. Then add the two prefabs in the Prefab Folder. One of the prefabs is an additional camera for the water's reflectiveness and the other is the  water texture. The water texture is plane you can move, scale and rotate. We will manipulate this plane so the water seems like rivers flowing through the terrain.
 
 ![KirbyPackages12](https://github.com/MegretMendez/KirbyVariants/assets/142510070/6a0f7218-3195-436f-860a-7735d6bda422)
+
+Final Product:
+![FinalProduct](https://github.com/MegretMendez/KirbyVariants/assets/142510070/41cb1a46-e957-400f-943e-647755062d9d)
+
+
