@@ -71,7 +71,9 @@ Description: Select the newly created color and select the Base Map property in 
 
 Step 4: Adding the color to a 3D Object
 
-https://github.com/MegretMendez/KirbyVariants/assets/142510070/b4e7f6ea-2d90-4acd-932f-2869edbf8a32
+https://github.com/MegretMendez/KirbyVariants/assets/142510070/172ba22a-f065-41cf-bfbb-975b589f3dc2
+
+
 
 Description: To add color to an object, simply left-click the color and drag it towards the object you wish to color. 
 
