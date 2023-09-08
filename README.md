@@ -59,6 +59,9 @@ Description: On the top of your screen, select Assets->Create->Folder. Name as y
 
 
 Step 2: Open Colors folder and create a color
-Description
+![KirbyColors3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/6404604b-c2d7-479f-abfe-14a5c9df078e)
+Description: Inside the Colors, select Assets->Create->Materials in the menu shown at the top of the screen. A new material should appear in your Colors folder. Change the name of the new material to the name of the color you are going to create.
+![KirbyColors4](https://github.com/MegretMendez/KirbyVariants/assets/142510070/118d8230-a988-446b-be78-8497afa4440b)
+
 
 
