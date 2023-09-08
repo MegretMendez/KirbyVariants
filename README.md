@@ -72,7 +72,7 @@ Description: To resize the Terrain, click on your Terrain in your Hierarchy pane
 
 Step 4: Use a reference Image 
 ![ReferencePicture](https://github.com/MegretMendez/KirbyVariants/assets/142510070/1b68c847-0cc0-4fa3-b031-dc3ea04fe923)
-Description: The first action is select a portion of height map of Puerto Rico from this ![PuertoRicoMap](https://tangrams.github.io/heightmapper/#9.90833/18.2959/-66.1836). The aim is to interpret the geological configuration in order to represent it with the Terrain object.  
+Description: The first action is select a portion of height map of Puerto Rico from this https://tangrams.github.io/heightmapper/#9.908/18.2965/-66.1842. The aim is to interpret the geological configuration in order to represent it with the Terrain object.  
 
 Step 5: Editing the Terrain
 ![CreatingTerrain5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f106e495-b598-4a10-9590-a07affe7bdeb">)
