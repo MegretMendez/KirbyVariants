@@ -10,7 +10,7 @@ Description: Let's start by creating an Empty Object with the purpose of having 
 
 Step 2: Creating Kirby's Body
 ![CreatingKIrby2](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f53d983b-2ca2-43f1-a0bc-9f9a381e5ee8)
-Description: Create a sphere that will represent Kirby's body. Modify as you wish so it is similar to kirby. After editing our sphere, right-click on its name in the Hierarchy panel, this should be ubicated on the left side of your screen. While right-clicking on the new sphere, drag it inside of your empty object previously created. After doing so, the sphere should appear right below the empty object and indented. This inidcates that the sphere belongs to the class TraditionalKirby.
+Description: Create a sphere that will represent Kirby's body. Modify as you wish so it is similar to kirby. After editing our sphere, left-click on its name in the Hierarchy panel, this should be ubicated on the left side of your screen. While left-clicking on the new sphere, drag it inside of your empty object previously created. After doing so, the sphere should appear right below the empty object and indented. This inidcates that the sphere belongs to the class TraditionalKirby.
 ![CreatingKirby3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/8c5711b2-d8d4-493a-aaa4-1f9278f517b8)
 
 Step 3: Completing Kirby
@@ -23,7 +23,7 @@ Note: Observe how every object we created is labeled with a different body part 
 Step 4: Kirby Prefab
 ![CreatingKirby5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/df68200b-d691-4a13-b5fa-7f528a10b093)
 
-Description: After we have finished customizing our Kirby, we will right-click on the entire class,TraditionalKirby, and drag it to the Assets folder in the Project panel on the bottom of our screen. This will create a "Prefab" of our Kirby. A prefab is basically the same as a class. 
+Description: After we have finished customizing our Kirby, we will left-click on the entire class,TraditionalKirby, and drag it to the Assets folder in the Project panel on the bottom of our screen. This will create a "Prefab" of our Kirby. A prefab is basically the same as a class. 
 
 ![CreatinmgKirby6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f0525277-3904-4ae3-88e8-78e5b493bb98)
 Note: Observe that the TraditionalKirby object now appears in blue with a cube besides it. This indicates that this is an object of a prefab.
