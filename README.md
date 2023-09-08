@@ -95,6 +95,10 @@ Step 2: Importing packages to Unity
 ![KirbyPackages3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/d4e68d1f-e3de-4957-b790-148bd3e0aefc)
 
 Description: In the Unity app, from the top menu, select Window->Package Manager. A window titled Package Manger should appear on your screen.
+![KirbyPackages4](https://github.com/MegretMendez/KirbyVariants/assets/142510070/a016d4d4-b978-48d6-a392-0eb2e0265086)
 
 Step 3: Packet Manager
+![KirbyPackages5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/77cf7c0f-a8be-4716-a381-1315b2ba474d)
+
+Description: In the top left of the Packet Manager window, select the "Package" drop down and select "My Assets". Select the "Handpainted Grass & Ground Textures"->Import
 
