@@ -69,3 +69,10 @@ Step 3: Editing new color
 Description: Select the newly created color and select the Base Map property in the Inspector panel on the right hand of your screen. A color palette should appear. Play with the color palette until you are satisfied with the tone of your color. 
 ![KirbyColors6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/c5353a49-4525-46e6-aa0f-df96479c70a8)
 
+Step 4: Adding the color to a 3D Object
+https://github.com/MegretMendez/KirbyVariants/assets/142510070/b4e7f6ea-2d90-4acd-932f-2869edbf8a32
+
+Description: To add color to an object, simply left-click the color and drag it towards the object you wish to color. 
+
+
+
