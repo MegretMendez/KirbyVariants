@@ -33,7 +33,9 @@ Description: In the Assets folder, click on the newly created prefab. Your Kirby
 
 Part 2. Using Traditional Kirby to create 4 variants
 ![CreatingKirby7](https://github.com/MegretMendez/KirbyVariants/assets/142510070/142a0938-3b5d-4cf8-a468-16194ecbf923)
-Description:To create the 4 Kirby Variants, we will once, again drag the original prefab to the Assets folder. This time a message will be displayded on the screen. 
+Description:To create the 4 Kirby Variants, we will once again drag the original prefab to the Assets folder. This time a message will be displayed on the screen. 
+
+![CreatingKirby8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/20e150ac-748d-4aac-9692-840bf90bba63)
 
 Part 3. Creating Terrain for Kirbys
 
