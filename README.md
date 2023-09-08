@@ -100,5 +100,10 @@ Description: In the Unity app, from the top menu, select Window->Package Manager
 Step 3: Packet Manager
 ![KirbyPackages5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/77cf7c0f-a8be-4716-a381-1315b2ba474d)
 
-Description: In the top left of the Packet Manager window, select the "Package" drop down and select "My Assets". Select the "Handpainted Grass & Ground Textures"->Import->Import.
+Description: In the top left of the Packet Manager window, select the "Package" drop down and select "My Assets". Select the "Handpainted Grass & Ground Textures"->Import->Import. The "Handpainted Grass & Ground Textures" package
+should appear in the Assets folder. We will not do anything inside this folder. 
 
+Step 4: Applying texture package to terrain
+![KirbyPackages8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/179ab9fa-2874-40bf-9bce-9c01474aa30a)
+
+Description: To apply textures to our terrain, we will select the terrain and in the Inspector panel, go to the Terrain section, select the icon with a mountain and a paint brush. In the dropdown menu, below the previously metioned icon, select the Paint Texture option. Below that Dropdown menu select Edit Terrain Layers->Add Layers. From there the 'Handpainted Grass & Ground Textures" Package will open, select the terrain texture you prefer. By default, the texture you choose will cover the whole terrain, but simply add another layer and paint how you desire. 
