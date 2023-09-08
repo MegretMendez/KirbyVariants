@@ -1,8 +1,8 @@
 # KirbyVariants
-Using primitive 3D objects we recreated the famous Kirby and 4 of its variants
+Using primitive 3D objects recreate the famous Kirby and 4 of its variants
+###########################################################################################################################################################################################
 
-
-Part 1. Creating Traditional Kirby
+PART 1. Creating Traditional Kirby
 
 Step 1: Creating class for Kirby
 ![CreatingKirby1](https://github.com/MegretMendez/KirbyVariants/assets/142510070/8e7439ff-ca1d-470e-aeb2-2926b03b2d1f)
@@ -30,8 +30,8 @@ Note: Observe that the TraditionalKirby object now appears in blue with a cube b
 ![CreatingKirby6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/c214463c-0df6-4ce6-b21c-fbfdd73f393b)
 
 Description: In the Assets folder, click on the newly created prefab. Your Kirby model should appear in a blue plane. Here you can edit your Kirby as you wish and the changes will be reflected in the original Scene.
-
-Part 2. Using Traditional Kirby to create 4 variants
+###########################################################################################################################################################################################
+PART 2. Using Traditional Kirby to create 4 variants
 ![CreatingKirby7](https://github.com/MegretMendez/KirbyVariants/assets/142510070/142a0938-3b5d-4cf8-a468-16194ecbf923)
 Description: To create the 4 Kirby Variants, we will once again drag the original prefab to the Assets folder. This time a message will be displayed on the screen. 
 
@@ -46,10 +46,11 @@ The picture below shows an example of a Kirby Variant:
 Note: Adding colors is optional. But adding colors is an advantage because we can better appreciate the little details of our Variants. At the bottom of the page you will find and "Additionals" section, where how to add colors will be explained in addition to other optional features.
 
 Repeat "Part 2. Using Traditional Kirby to create 4 variants" until you have all your Kirby Variants created and styled to the maximum accuracy you can achieve.
+###########################################################################################################################################################################################
+PART 3. Creating Terrain for Kirbys
 
-Part 3. Creating Terrain for Kirbys
-
-Part 4. Optional(Adding color, water and texture to the terrain)
+###########################################################################################################################################################################################
+PART 4. Optional(Adding color, water and texture to the terrain)
 I. Adding Colors to our Kirby Models.
 Step 1: Creating a folder for the colors
 ![KirbyColors1](https://github.com/MegretMendez/KirbyVariants/assets/142510070/25465d6b-f3ca-4be8-9b88-0a1e420d649b)
@@ -76,4 +77,4 @@ Step 4: Adding the color to a 3D Object
 Description: To add color to an object, simply left-click the color and drag it towards the object you wish to color. 
 
 Note: Repeat "I. Adding Colors to our Kirby Models" for every color you wish to use. 
-
+ 
