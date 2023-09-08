@@ -1,5 +1,5 @@
 David Méndez
-Jose Megret
+José Megret
 
 KirbyVariants
 
