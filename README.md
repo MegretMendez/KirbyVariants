@@ -1,3 +1,6 @@
+David Méndez
+Jose Megret
+
 KirbyVariants
 
 Using primitive 3D objects to recreate the famous Kirby and 4 of its variants. Recreate a zone from the Puerto Rico Map and assign a zone of our terrain to each Kirby Variant. 
