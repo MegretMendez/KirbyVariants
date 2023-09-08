@@ -67,4 +67,5 @@ Step 3: Editing new color
 ![KirbyColors5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/7e52276e-b132-4d28-a702-350ba4f810d6)
 
 Description: Select the newly created color and select the Base Map property in the Inspector panel on the right hand of your screen. A color palette should appear. Play with the color palette until you are satisfied with the tone of your color. 
+![KirbyColors6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/c5353a49-4525-46e6-aa0f-df96479c70a8)
 
