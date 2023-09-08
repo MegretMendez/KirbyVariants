@@ -49,4 +49,4 @@ Repeat "Part 2. Using Traditional Kirby to create 4 variants" until you have all
 
 Part 3. Creating Terrain for Kirbys
 
-PArt 4. Optional(Adding water and texture to the terrain)
+Prt 4. Optional(Adding color, water and texture to the terrain)
