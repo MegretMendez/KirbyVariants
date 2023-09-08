@@ -165,4 +165,6 @@ Desscription: For the water, we imported a package called "Simple Water Shader U
 Final Product:
 ![FinalProduct](https://github.com/MegretMendez/KirbyVariants/assets/142510070/41cb1a46-e957-400f-943e-647755062d9d)
 
+Personal Memory: David Méndez
+Kirby’s Adventure debut was 10 years before I was even born. With that said, I have very little memory of playing Kirby or how Kirby impacted my childhood. The only vivid memory I have of Kirby is the day I played Kirby for the first time. I was around 8 years old and I was staying with my grandparents for the summer. I remember being bored out of my mind and complaining, which gave my grandpa the idea of looking for my uncle’s old Nintendo Entertainment System(NES). After he found the Nintendo console in his storage, he installed it. But my grandfather had no idea how to turn it on or even set the game for me.So I had to investigate how the NES worked on my own. Since the console was old I remember having to blow on the cassette because the console was not reading it. The only game my grandfather found was Kirby’s Adventure. The main memory I have of Kirby from that day was Kirby’s ability to inhale enemies and spit them out as bullets which I found so awesome and amazing.
 
