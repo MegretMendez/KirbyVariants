@@ -63,5 +63,8 @@ Step 2: Open Colors folder and create a color
 Description: Inside the Colors, select Assets->Create->Materials in the menu shown at the top of the screen. A new material should appear in your Colors folder. Change the name of the new material to the name of the color you are going to create.
 ![KirbyColors4](https://github.com/MegretMendez/KirbyVariants/assets/142510070/118d8230-a988-446b-be78-8497afa4440b)
 
+Step 3: Editing new color
+![KirbyColors5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/7e52276e-b132-4d28-a702-350ba4f810d6)
 
+Description: Select the newly created color and select the Base Map property in the Inspector panel on the right hand of your screen. A color palette should appear. Play with the color palette until you are satisfied with the tone of your color. 
 
