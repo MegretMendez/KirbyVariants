@@ -1,4 +1,4 @@
-Ki# KirbyVariants
+KirbyVariants
 Using primitive 3D objects recreate the famous Kirby and 4 of its variants
 
 #######################################################################################################
@@ -112,7 +112,7 @@ By adding new layers and using the paintin brush, you can paint the terrain to m
 ![KirbyPackages10](https://github.com/MegretMendez/KirbyVariants/assets/142510070/d53ab344-f7f2-4e43-93b8-61b7a782d79d)
 
 Step 5: Add water package
-![Uploading KirbyPackages11.gif…]()
+![KirbyPackages11](https://github.com/MegretMendez/KirbyVariants/assets/142510070/55bccd56-aa19-4517-96bb-c1d94b4f2876)
 
 Desscription: For the water, we imported a package called "Simple Water Shader URP" from Unity's Assets store. Once imported go to Assets folder and select IgniteCoders->Simmple Water Shader->Prefabs. Then add the two prefabs in the Prefab Folder. One of the prefabs is an additional camera for the water's reflectiveness and the other is the  water texture. The water texture is plane you can move, scale and rotate. We will manipulate this plane so the water seems like rivers flowing through the terrain.
 
