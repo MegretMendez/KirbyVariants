@@ -26,6 +26,7 @@ Step 4: Kirby Prefab
 Description: After we have finished customizing our Kirby, we will right-click on the entire class,TraditionalKirby, and drag it to the Assets folder in the Project panel on the bottom of our screen. This will create a "Prefab" of our Kirby. A prefab is basically the same as a class. 
 
 ![CreatinmgKirby6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f0525277-3904-4ae3-88e8-78e5b493bb98)
+![CreatingKirby6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/c214463c-0df6-4ce6-b21c-fbfdd73f393b)
 
 Description: In the Assets folder, click on the newly created prefab. Your Kirby model should appear in a blue plane. Here you can edit your Kirby as you wish and the changes will be reflected in the original Scene.
 
