@@ -74,5 +74,5 @@ https://github.com/MegretMendez/KirbyVariants/assets/142510070/172ba22a-f065-41c
 
 Description: To add color to an object, simply left-click the color and drag it towards the object you wish to color. 
 
-
+Note: Repeat "I. Adding Colors to our Kirby Models" for every color you wish to use. 
 
