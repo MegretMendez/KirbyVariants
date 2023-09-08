@@ -41,7 +41,8 @@ Description: The message will ask if we desire to create a new Prefab or if we p
 ![CreatingKirby9](https://github.com/MegretMendez/KirbyVariants/assets/142510070/c8a9408d-c30d-426a-9003-4583077d9949)
 Description: Inside the new prefab variant, edit your Kirby to make it resemble one of the variants you chose. 
 
-
+The picture below shows an example of a Kirby Variant: 
+![CreatingKirby10](https://github.com/MegretMendez/KirbyVariants/assets/142510070/dd2ed439-05c7-4d31-afdf-3b1718f92bcc)
 
 Part 3. Creating Terrain for Kirbys
 
