@@ -53,6 +53,38 @@ Repeat "Part 2. Using Traditional Kirby to create 4 variants" until you have all
 
 PART 3. Creating Terrain for Kirbys
 
+Step 1: Creating Class for Kirby land
+![CreatingTerrain1](<img width="1440" alt="Step 1" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/f6ff702c-0a0f-4399-9994-42d43650ece1">)
+Description:  Let's start by creating an Empty Object with the purpose of having some sort of class for our Kirby map. This is optional, but we named it Kirby land so we can easily identify our objects.
+
+Step 2: Creating the terrain
+![CreatingTerrain2](<img width="1440" alt="Step 2" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/0a1ddc4c-ac68-46df-a1d9-9ba637ec927d">)
+
+Description: To create the terrain, we will go to GameObject > 3D Object > Terrain. Once the Terrain is created, left-click on Terrain in the Hierarchy panel, this should be located on the left side of your screen, and drag and drop under Kirby land. After doing so, the Terrain should appear right below the empty object and indented. This indicates that the Terrain belongs to the class Kirby land.
+
+Step 3: Re-sizing the Terrain
+![CreatingTerrain3](<img width="1440" alt="Step 3 (1)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/fba8d49b-c921-4f72-9648-a3383dfa3727">)
+
+Description: To resize the Terrain, click on your Terrain in your Hierarchy panel, and there one will be prompt with the components of the Terrain, this is located in the right part of the screen. Then click on Terrain settings. Scroll down to where it says “Mesh Resolution” (On Terrain Data) and edit the Terrain Width to 250, Terrain Length to 250, Terrain Height 250. After that, scroll a little bit more to where it says “Texture Resolution” (On Terrain Data) and click on Heightmap Resolution drop down box and put it to 257x257.
+![CreatingTerrain4](<img width="1440" alt="Step 3 (2)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/b26d7cd5-4fa9-4597-80d7-6989b5034c0b">)
+![CreatingTerrain4](<img width="1440" alt="Step 3 (3)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/daa0e644-ac90-42b8-8a03-7d8e69f6026d">)
+
+Step 4: Editing the Terrain
+![CreatingTerrain5](<img width="1440" alt="Step 4 (1)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/f106e495-b598-4a10-9590-a07affe7bdeb">)
+
+Description: Go back to the Terrain component on the right of the page and click on Paint Terrain. Then go to the drop down right below it and click “set Height” and where it says “Height” put it in 50 and select “Flatten All”, this way we can lower the Terrain to make rivers, etc.. 
+![CreatingTerrain6](<img width="1440" alt="Step 4 (2)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/355c91ee-617c-4626-a550-f549af6b93ad">)
+![CreatingTerrain7](<img width="1440" alt="Step 4 (3)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/84e9e313-e8e3-48b1-b150-92c4e7d2031a">)
+
+Now go back to the drop down box and click on “Raise or Lower Terrain” with this you can create mountains, hills, etc. by pressing the left click on the Terrain.
+![CreatingTerrain8](<img width="1440" alt="Step 4 (4)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/42b6033c-73c6-41de-b52d-acee549aef47">)
+
+ Then to make rivers, caves, lagoons, etc. hold shift and left click to lower the Terrain.
+![CreatingTerrain8](<img width="1440" alt="Step 4 (6)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/2bccd788-8d97-4a5e-a40e-75efd970d938">)
+
+![CreatingTerrain9](<img width="1440" alt="Step 4 (5)" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/a5a73b51-6dd9-45dc-b358-e6880cba4f24">)
+Note: You can change the brushes to add more texture to the Terrain and you can adjust the Brush size and Opacity for larger or smaller areas.
+
 #######################################################################################################
 
 PART 4. Optional(Adding color, water and texture to the terrain)
