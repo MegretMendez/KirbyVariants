@@ -81,5 +81,10 @@ Step 4: Adding the color to a 3D Object
 
 Description: To add color to an object, simply left-click the color and drag it towards the object you wish to color. 
 
-Note: Repeat "I. Adding Colors to our Kirby Models" for every color you wish to use. 
- 
+Note: Repeat "I. Adding Colors to our Kirby Models" for every color you wish to use.
+
+II. Importing texture packages to make our terrain realistic.
+Unity does not come with texture packages installed. However you can impport a variety of free packages from Unity's online Asset Store.
+![KirbyPackages1](https://github.com/MegretMendez/KirbyVariants/assets/142510070/fa41a7a1-0f48-4e86-b125-24f853e57c1e)
+
+Description: For styling our mountain we will import the "Handpainted Grass & Ground Textures" package from the Assets store. On your browser search "Unity Assets Store". Once in teh store search for "Handpainted Grass & Ground Textures". Click on the first texture package and select "Add to My Assets". 
