@@ -55,7 +55,7 @@ Repeat "Part 2. Using Traditional Kirby to create 4 variants" until you have all
 PART 3. Creating Terrain for Kirbys
 
 Step 1: Creating Class for Kirby land
-![CreatingTerrain1](<img width="1440" alt="Step 1" src="https://github.com/MegretMendez/KirbyVariants/assets/142510070/f6ff702c-0a0f-4399-9994-42d43650ece1">)
+![CreatingTerrain1](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f6ff702c-0a0f-4399-9994-42d43650ece1">)
 Description:  Let's start by creating an Empty Object with the purpose of having some sort of class for our Kirby map. This is optional, but we named it Kirby land so we can easily identify our objects.
 
 Step 2: Creating the terrain
