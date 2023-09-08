@@ -36,7 +36,7 @@ Part 2. Using Traditional Kirby to create 4 variants
 Description:To create the 4 Kirby Variants, we will once again drag the original prefab to the Assets folder. This time a message will be displayed on the screen. 
 
 ![CreatingKirby8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/20e150ac-748d-4aac-9692-840bf90bba63)
-
+Description: The message will ask if we desire to create a new Prefab or if we prefer to create a Variant Prefab of our TraditionalKirby. We will choose to create a Variant Prefab. This creates a duplicate of the original prefab but is totally independant from the original. We can distinguish Original Prefabs from Prefab Variants because even though Prefab Variants are also displayd in blue with a cube, the cube has one of its faces shaded.
 Part 3. Creating Terrain for Kirbys
 
 PArt 4. Optional(Adding water and texture to the terrain)
