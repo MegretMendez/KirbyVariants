@@ -90,3 +90,11 @@ Step 1: Adding assets
 ![KirbyPackages2](https://github.com/MegretMendez/KirbyVariants/assets/142510070/e0a4027a-ee3a-474f-bf60-e12cfc0f1d33)
 
 Description: For styling our mountain we will import the "Handpainted Grass & Ground Textures" package from the Assets store. On your browser search "Unity Assets Store". Once in teh store search for "Handpainted Grass & Ground Textures". Click on the first texture package and select "Add to My Assets". 
+
+Step 2: Importing packages to Unity
+![KirbyPackages3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/d4e68d1f-e3de-4957-b790-148bd3e0aefc)
+
+Description: In the Unity app, from the top menu, select Window->Package Manager. A window titled Package Manger should appear on your screen.
+
+Step 3: Packet Manager
+
