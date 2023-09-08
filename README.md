@@ -10,7 +10,7 @@ Description: Let's start by creating an Empty Object with the purpose of having 
 
 Step 2: Creating Kirby's Body
 ![CreatingKIrby2](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f53d983b-2ca2-43f1-a0bc-9f9a381e5ee8)
-Description: Create a sphere that will represent Kirby's body. Modify as you wish so it is similar to kirby. After editing our sphere, left-click on its name in the Hierarchy panel, this should be located on the left side of your screen. While left-clicking on the new sphere, drag it inside of your empty object previously created. After doing so, the sphere should appear right below the empty object and indented. This inidcates that the sphere belongs to the class TraditionalKirby.
+Description: Create a sphere that will represent Kirby's body. Modify as you wish so it is similar to kirby. After editing our sphere, left-click on its name in the Hierarchy panel, this should be located on the left side of your screen. While left-clicking on the new sphere, drag it inside of your empty object previously created. After doing so, the sphere should appear right below the empty object and indented. This indicates that the sphere belongs to the class TraditionalKirby.
 ![CreatingKirby3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/8c5711b2-d8d4-493a-aaa4-1f9278f517b8)
 
 Step 3: Completing Kirby
