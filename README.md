@@ -70,21 +70,28 @@ Description: To resize the Terrain, click on your Terrain in your Hierarchy pane
 
 ![CreatingTerrain4](https://github.com/MegretMendez/KirbyVariants/assets/142510070/daa0e644-ac90-42b8-8a03-7d8e69f6026d">)
 
-Step 4: Editing the Terrain
+Step 4: Use a reference Image 
+![ReferencePicture](https://github.com/MegretMendez/KirbyVariants/assets/142510070/1b68c847-0cc0-4fa3-b031-dc3ea04fe923)
+Description: The first action is select a portion of height map of Puerto Rico from this ![PuertoRicoMap](https://tangrams.github.io/heightmapper/#9.90833/18.2959/-66.1836). The aim is to interpret the geological configuration in order to represent it with the Terrain object.  
+
+Step 5: Editing the Terrain
 ![CreatingTerrain5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f106e495-b598-4a10-9590-a07affe7bdeb">)
 
 Description: Go back to the Terrain component on the right of the page and click on Paint Terrain. Then go to the drop down right below it and click “set Height” and where it says “Height” put it in 50 and select “Flatten All”, this way we can lower the Terrain to make rivers, etc.. 
 ![CreatingTerrain6](https://github.com/MegretMendez/KirbyVariants/assets/142510070/355c91ee-617c-4626-a550-f549af6b93ad">)
 ![CreatingTerrain7](https://github.com/MegretMendez/KirbyVariants/assets/142510070/84e9e313-e8e3-48b1-b150-92c4e7d2031a">)
 
-Now go back to the drop down box and click on “Raise or Lower Terrain” with this you can create mountains, hills, etc. by pressing the left click on the Terrain.
+Now go back to the drop down box and click on “Raise or Lower Terrain”.
 ![CreatingTerrain8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/42b6033c-73c6-41de-b52d-acee549aef47">)
-
- Then to make rivers, caves, lagoons, etc. hold shift and left click to lower the Terrain.
-![CreatingTerrain8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/2bccd788-8d97-4a5e-a40e-75efd970d938">)
-
 ![CreatingTerrain9](https://github.com/MegretMendez/KirbyVariants/assets/142510070/a5a73b51-6dd9-45dc-b358-e6880cba4f24">)
 Note: You can change the brushes to add more texture to the Terrain and you can adjust the Brush size and Opacity for larger or smaller areas.
+
+![CreatingTerrain10](https://github.com/MegretMendez/KirbyVariants/assets/142510070/2bccd788-8d97-4a5e-a40e-75efd970d938">)
+Note: Once you click on "Raise or Lower Terrain" you can create mountains, hills, etc. by pressing the left click on the Terrain. Then to make rivers, caves, lagoons, etc. hold shift and left click to lower the Terrain. 
+
+Kirby Land!
+![CreatingTerrain11](https://github.com/MegretMendez/KirbyVariants/assets/142510070/24bb3e6a-a8a5-4063-a5b2-6a6de0af6b78">)
+Description: Once all configurations are applied, let your creativity loose and express yourself.
 
 #######################################################################################################
 
