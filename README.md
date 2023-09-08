@@ -72,7 +72,8 @@ Description: To resize the Terrain, click on your Terrain in your Hierarchy pane
 
 Step 4: Use a reference Image 
 ![ReferencePicture](https://github.com/MegretMendez/KirbyVariants/assets/142510070/1b68c847-0cc0-4fa3-b031-dc3ea04fe923)
-Description: The first action is select a portion of height map of Puerto Rico from this https://tangrams.github.io/heightmapper/#9.908/18.2965/-66.1842. The aim is to interpret the geological configuration in order to represent it with the Terrain object.  
+Description: The first action is select a portion of height map of Puerto Rico from this website: https://tangrams.github.io/heightmapper/#9.908/18.2965/-66.1842. The aim is to interpret the geological configuration in order to represent it with the Terrain object.  
+A general rule of thumb is that lighter or whiter areas on a map typically indicate higher elevations, such as mountains and hills, whereas darker areas often represent lower elevations, such as rivers and lagoons.
 
 Step 5: Editing the Terrain
 ![CreatingTerrain5](https://github.com/MegretMendez/KirbyVariants/assets/142510070/f106e495-b598-4a10-9590-a07affe7bdeb">)
@@ -89,9 +90,13 @@ Note: You can change the brushes to add more texture to the Terrain and you can 
 ![CreatingTerrain10](https://github.com/MegretMendez/KirbyVariants/assets/142510070/2bccd788-8d97-4a5e-a40e-75efd970d938">)
 Note: Once you click on "Raise or Lower Terrain" you can create mountains, hills, etc. by pressing the left click on the Terrain. Then to make rivers, caves, lagoons, etc. hold shift and left click to lower the Terrain. 
 
+
 Kirby Land!
 ![CreatingTerrain11](https://github.com/MegretMendez/KirbyVariants/assets/142510070/24bb3e6a-a8a5-4063-a5b2-6a6de0af6b78">)
-Description: Once all configurations are applied, let your creativity loose and express yourself.
+Description: After applying all configurations and following the instructions, feel free to unleash your creativity and express yourself, just make sure to stay true to the reference image.
+
+![CreatingTerrain12](https://github.com/MegretMendez/KirbyVariants/assets/142510070/cef8e92f-d15e-493f-b472-a8873e18e021">)
+Note: We added 4 platforms to put our Kirby variants in but, this is Optional.
 
 #######################################################################################################
 
