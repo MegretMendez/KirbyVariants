@@ -105,5 +105,6 @@ should appear in the Assets folder. We will not do anything inside this folder.
 
 Step 4: Applying texture package to terrain
 ![KirbyPackages8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/179ab9fa-2874-40bf-9bce-9c01474aa30a)
+![KirbyPackages9](https://github.com/MegretMendez/KirbyVariants/assets/142510070/8ca7f41b-8dd9-48d9-98ab-7425fa20a8fd)
 
 Description: To apply textures to our terrain, we will select the terrain and in the Inspector panel, go to the Terrain section, select the icon with a mountain and a paint brush. In the dropdown menu, below the previously metioned icon, select the Paint Texture option. Below that Dropdown menu select Edit Terrain Layers->Add Layers. From there the 'Handpainted Grass & Ground Textures" Package will open, select the terrain texture you prefer. By default, the texture you choose will cover the whole terrain, but simply add another layer and paint how you desire. 
