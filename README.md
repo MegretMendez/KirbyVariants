@@ -49,4 +49,16 @@ Repeat "Part 2. Using Traditional Kirby to create 4 variants" until you have all
 
 Part 3. Creating Terrain for Kirbys
 
-Prt 4. Optional(Adding color, water and texture to the terrain)
+Part 4. Optional(Adding color, water and texture to the terrain)
+I. Adding Colors to our Kirby Models.
+Step 1: Creating a folder for the colors
+![KirbyColors1](https://github.com/MegretMendez/KirbyVariants/assets/142510070/25465d6b-f3ca-4be8-9b88-0a1e420d649b)
+
+Description: On the top of your screen, select Assets->Create->Folder. Name as you wish. In this case we named it Colors. This new folder should appear in the Assets Folder in the bottom panel of the screen. 
+![KirbyColors2](https://github.com/MegretMendez/KirbyVariants/assets/142510070/ce144417-c8fe-423a-9f07-cc07eebcb3a2)
+
+
+Step 2: Open Colors folder and create a color
+Description
+
+
