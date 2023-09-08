@@ -33,12 +33,13 @@ Description: In the Assets folder, click on the newly created prefab. Your Kirby
 
 Part 2. Using Traditional Kirby to create 4 variants
 ![CreatingKirby7](https://github.com/MegretMendez/KirbyVariants/assets/142510070/142a0938-3b5d-4cf8-a468-16194ecbf923)
-Description:To create the 4 Kirby Variants, we will once again drag the original prefab to the Assets folder. This time a message will be displayed on the screen. 
+Description: To create the 4 Kirby Variants, we will once again drag the original prefab to the Assets folder. This time a message will be displayed on the screen. 
 
 ![CreatingKirby8](https://github.com/MegretMendez/KirbyVariants/assets/142510070/20e150ac-748d-4aac-9692-840bf90bba63)
 Description: The message will ask if we desire to create a new Prefab or if we prefer to create a Variant Prefab of our TraditionalKirby. We will choose to create a Variant Prefab. This creates a duplicate of the original prefab but is totally independant from the original. We can distinguish Original Prefabs from Prefab Variants because even though Prefab Variants are also displayed in blue with a cube, the cube has one of its faces shaded. Remember to change the name of the Prefab Variant to easily distinguish them. 
 
 ![CreatingKirby9](https://github.com/MegretMendez/KirbyVariants/assets/142510070/c8a9408d-c30d-426a-9003-4583077d9949)
+Description: Inside the new prefab variant, edit your Kirby to make it resemble one of the variants you chose. 
 
 
 
