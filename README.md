@@ -43,7 +43,7 @@ Description: Inside the new prefab variant, edit your Kirby to make it resemble 
 
 The picture below shows an example of a Kirby Variant: 
 ![CreatingKirby10](https://github.com/MegretMendez/KirbyVariants/assets/142510070/dd2ed439-05c7-4d31-afdf-3b1718f92bcc)
-Note: Adding colors is optional. But adding colors is an advantage becuase we can better appreciate the little details of our Variants. At the bottom of the page you will find and "Additionals" section, where how to add colors will be explained in addition to other optional features.
+Note: Adding colors is optional. But adding colors is an advantage because we can better appreciate the little details of our Variants. At the bottom of the page you will find and "Additionals" section, where how to add colors will be explained in addition to other optional features.
 
 Repeat "Part 2. Using Traditional Kirby to create 4 variants" until you have all your Kirby Variants created and styled to the maximum accuracy you can achieve.
 
