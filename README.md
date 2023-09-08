@@ -64,10 +64,10 @@ Step 2: Creating the terrain
 Description: To create the terrain, we will go to GameObject > 3D Object > Terrain. Once the Terrain is created, left-click on Terrain in the Hierarchy panel, this should be located on the left side of your screen, and drag and drop under Kirby land. After doing so, the Terrain should appear right below the empty object and indented. This indicates that the Terrain belongs to the class Kirby land.
 
 Step 3: Re-sizing the Terrain
-![CreatingTerrain3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/fba8d49b-c921-4f72-9648-a3383dfa3727">)
+![CreatingTerrain3](https://github.com/MegretMendez/KirbyVariants/assets/142510070/22ff1aab-7ab4-4fc1-976d-d422ae7bd889">)
 
 Description: To resize the Terrain, click on your Terrain in your Hierarchy panel, and there one will be prompt with the components of the Terrain, this is located in the right part of the screen. Then click on Terrain settings. Scroll down to where it says “Mesh Resolution” (On Terrain Data) and edit the Terrain Width to 250, Terrain Length to 250, Terrain Height 250. After that, scroll a little bit more to where it says “Texture Resolution” (On Terrain Data) and click on Heightmap Resolution drop down box and put it to 257x257.
-![CreatingTerrain4](https://github.com/MegretMendez/KirbyVariants/assets/142510070/b26d7cd5-4fa9-4597-80d7-6989b5034c0b">)
+
 ![CreatingTerrain4](https://github.com/MegretMendez/KirbyVariants/assets/142510070/daa0e644-ac90-42b8-8a03-7d8e69f6026d">)
 
 Step 4: Editing the Terrain
